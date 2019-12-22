@@ -10,8 +10,7 @@ description: >-
 intro:
   blurbs:
     - image: /img/corporativas-1-.jpg
-      text: |2
-         Nuestro equipo tiene habilidades comprobadas para desarrollar y personalizar complementos y aplicaciones de WordPress y sigue estrictamente las pautas de codificación .Contrata expertos de WordPress y disfruta de soluciones de primer nivel.
+      text: ' Nuestro equipo tiene habilidades comprobadas para desarrollar y personalizar complementos y aplicaciones de WordPress y sigue estrictamente las pautas de codificación .'
     - image: /img/1sec-1-.png
       text: >
         Después de haber desarrollado más de 200 complementos y aplicaciones,
