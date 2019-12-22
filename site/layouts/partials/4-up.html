@@ -1,15 +1,25 @@
-<div class="bg-off-white pv4">
-	<div class="ph3 mw7 center">
-		<h2 class="f2 b lh-title mb2">{{.heading}}</h2>
-		<p class="mb4 mw6">{{.description}}</p>
-
-		<div class="flex-ns flex-wrap mhn2-ns mb3">
-			{{ range .blurbs }}
-				<div class="ph2-ns w-50-ns mb4">
-					<img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
-					<p>{{ .text }}</p>
-				</div>
-			{{ end }}
-		</div>
-	</div>
+<div class="jumbotron">
+		<h2 class="display-4">{{.heading}}</h2>
+	 <hr class="my-4">
+		<p class="lead">{{.description}}</p>
 </div>
+<div class="container">
+  <div class="row">
+	 {{ range .blurbs }} 
+    <div class="col">
+    <p>{{ .text }}</p>
+    </div>
+    <div class="col">
+     <img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
+    </div>
+  </div>
+<div class="container">
+  <div class="row">
+	 {{ range .blurbs }} 
+    <div class="col">
+      <img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
+    </div>
+    <div class="col">
+	  <p>{{ .text }}</p>  
+    </div>
+  </div>
