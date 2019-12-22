@@ -1,20 +1,44 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Experto Wordpress
+subtitle: Desarrollador y diseñador web experto en WordPress
+image: /img/fotolia_115501052_subscription_monthly_xl-1-.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Experto en WordPress?
+  text: >-
+    Desarrollador y diseñador web experto en WordPress Mi trabajo consiste en
+    crear tu página web para ayudarte a captar clientes en internet. Para ello,
+    crearé tu página web profesional, con el mejor diseño estético y optimizada
+    para SEO, con la que seguro te sentirás seguro y identificado.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Diseño y desarrollo web
+  text: >-
+    ¡Hola! Me llamo Joaquin y soy diseñador y programador web. Estoy aquí para
+    expandir tu negocio en Internet. Tengo conocimientos y experiencia para
+    utilizar las tecnologías HTML5, CSS3, PHP, JavaScript y jQuery..
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/undraw_wordpress_utxt-1-.png
+    text: >-
+      Mi trabajo consiste en crear tu página web para ayudarte a captar clientes
+      en internet. Para ello, crearé tu página web profesional, con el mejor
+      diseño estético y optimizada para SEO, con la que seguro te sentirás
+      seguro y identificado.
+  - image: /img/wordpress-1-.png
+    text: >-
+      Google, como motor de búsqueda dominante, ha reconocido a WordPress como
+      una gran opción para el éxito en línea, y Matt Cutts señaló que se encarga
+      del 80-90% de la mecánica del SEO.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: ¿Qué es WordPress?
+  text: >-
+    WordPress es un sistema de gestión de contenido que permite el diseño y
+    desarrollo de sitios web completamente personalizados , pero también permite
+    a los usuarios iniciar sesión y realizar actualizaciones utilizando un
+    editor visual muy simple e intuitivo.
+
+
+    ¡No se necesita codificación! Somos expertos en diseño web de WordPress;
+    permítanos crear un sitio efectivo y atractivo, y luego se hace cargo,
+    creando nuevas páginas y haciendo ediciones sin involucrar a un diseñador
+    web.
 ---
 
