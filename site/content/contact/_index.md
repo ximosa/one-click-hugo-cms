@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo-1-1-.png
+logo: /img/ecommerce-tienda-online-diseño-web-agencia-barcelona-1024x569-1-.jpg
 contact_entries:
   - heading: Ubicación
     text: |-
