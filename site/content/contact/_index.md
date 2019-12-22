@@ -11,16 +11,6 @@ contact_entries:
 ---
 
 
-> EXPERTO EN WORDPRESS! Creamos páginas web para empresas y autonomos.
 
-Diseño de páginas web corporativas, administrables y tiendas online.
-
-Quieres que te realicemos una página web pídenos información sin compromiso.
-
-<h3 class="f4 b lh-title mb2">Contacto: Experto Wordpress.org!</h3>
-
-<!--StartFragment-->
 
 ##### Contáctenos hoy para su próximo diseño web o rediseño.
-
-<!--EndFragment-->
