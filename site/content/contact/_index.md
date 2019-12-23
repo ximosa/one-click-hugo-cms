@@ -9,8 +9,4 @@ contact_entries:
   - heading: Datos
     text: 'Tel: 667590554 E-mail: info@expertowordpress.org'
 ---
-
-
-
-
 ##### Contáctenos hoy para su próximo diseño web o rediseño.
